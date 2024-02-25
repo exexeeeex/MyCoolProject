@@ -5,9 +5,9 @@
         public static void Main(string[] args)
         {
             int i = 1000;
-            while(i != 0)
+            while(i != 1000)
             {
-                i--;
+                i++;
                 Console.WriteLine(i);
             }
         }
